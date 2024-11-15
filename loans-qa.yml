@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related loan-git QA APIs "
+  message: "Welcome to EazyBank loans related git-loans-burak QA APIs "
   contactDetails:
     name: "Cyrano Marita - QA Lead"
     email: "{cipher}9b6c69abc609d6908569c8a89083a1579b1987d8afbbc830b9ac04aeb5264f6a970a68c17bbe7fd51827ee9599815843"
